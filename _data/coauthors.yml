@@ -1,34 +1,24 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Yuting":
+  - firstname: [Yuting Jia]
+    url: https://www.ytjia.xyz/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
+"Hui":
+  - firstname: [Hui Xu]
     url: https://en.wikipedia.org/wiki/Boris_Podolsky
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Ying":
+  - firstname: [Ying Wen]
+    url: https://yingwen.io
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
+"Xinbing": 
+  - firstname: [Xinbing Wang]
     url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Dakuo":
+  - firstname: [Dakuo Wang]
+    url: https://dakuowang.com
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Toby":
+  - firstname: [Toby Jia-Jun Li]
+    url: https://toby.li
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
