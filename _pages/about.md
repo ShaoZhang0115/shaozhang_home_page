@@ -11,6 +11,7 @@ profile:
   address: >
     <p>Shanghai Jiao Tong University</p>
     <p>Shanghai, China</p>
+    <p>Email: shaozhang at sjtu.edu.cn </p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
