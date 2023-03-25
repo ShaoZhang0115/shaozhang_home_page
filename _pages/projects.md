@@ -5,8 +5,8 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 2
-display_categories: [Game Design, Human-AI Collaboration]
-horizontal: false
+display_categories: [Human-AI Collaboration, Game Design,]
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
