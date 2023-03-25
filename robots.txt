@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://master--calm-froyo-4647f2.netlify.app/sitemap.xml
+Sitemap: https://shaozhang.info/sitemap.xml
