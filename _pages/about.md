@@ -1,25 +1,24 @@
 ---
 layout: about
-title: about
+title: Shao ZHANG
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>SJTU-MARL Group ,Shanghai Jiao Tong University</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: photo.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Shanghai Jiao Tong University</p>
+    <p>Shanghai, China</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Shao ZHANG is currently a Ph.D. candidate at Shanghai Jiao Tong University, supervised by [Prof. Ying WEN](https://yingwen.io/) and [Prof. Xinbing WANG](https://www.cs.sjtu.edu.cn/~wang-xb/). She is a member of SJTU-MARL Group leaded by Prof. Ying WEN. Now she also has the honor to be supervised by [Prof. Dakuo Wang](https://www.dakuowang.com/) from Northeastern University, USA in the research of AI-in-the-Loop.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Shao obtained her MSc in Multimedia and Entertainment Technology (Game Development stream) from [School of Design, The Hong Kong Polytechnic University](https://www.sd.polyu.edu.hk/en/) in 2020. Before that, Shao earned her B.Eng. in Industrial Design from [School of Design, Hunan University](http://design.hnu.edu.cn/) in 2019. During her undergraduate study, she was a member of [XiaoLab](http://xiaolab.net/) and was supervised by [Prof. Sheng XIAO](http://xiaolab.net/) and [Prof. Beibei ZHAN](http://ylsy.hnu.edu.cn/info/1209/5571.htm).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Shao's research interests include **human-AI collaboration**, **HCI4AI** and **multi-agent reinforcement learning**. Specifically, she is now focusing on Human-in-the-Loop data annotation, **AI-in-the-Loop** deployment in real world scenario, **Cooperative AI** in fully cooperative game and **human-AI team cooperation evaluation** in MARL.
