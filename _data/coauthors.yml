@@ -4,15 +4,15 @@
 
 "Xu":
   - firstname: [Hui]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+    url: https://xu-hui.netlify.app/
 
 "Wen":
   - firstname: [Ying]
     url: https://yingwen.io
 
-"Wang": 
-  - firstname: [Xinbing]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+# "Wang": 
+#   - firstname: [Xinbing]
+#     url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
 
 "Wang":
   - firstname: [Dakuo]
@@ -22,3 +22,7 @@
   - firstname: [Toby Jia-Jun]
     url: https://toby.li
 
+
+"Xiao":
+  - firstname: [Sheng]
+    url: https://xiaolab.net
