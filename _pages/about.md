@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Shao ZHANG
+title: <a>Shao ZHANG</a>
 permalink: /
 subtitle: <a href='#'>SJTU-MARL Group, Shanghai Jiao Tong University</a>.
 
