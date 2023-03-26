@@ -2,7 +2,7 @@
 layout: about
 title: Bio
 permalink: /
-subtitle: <a href='#'>SJTU-MARL Group, Shanghai Jiao Tong University</a>.
+subtitle: Ph.D. Student at SJTU-MARL Group,<a href='https://www.sjtu.edu.cn/'> Shanghai Jiao Tong University</a>, Shanghai, China.
 
 profile:
   align: right
