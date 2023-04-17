@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will serve as a student volunteer at CHI2023. See you in Hamburg on 23rd April!😊
+I will serve as a student volunteer at [CHI2023](https://chi2023.acm.org/). See you in Hamburg on 23rd April!😊
