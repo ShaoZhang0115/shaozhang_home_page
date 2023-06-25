@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our Paper [Cooperative Open-ended Learning Framework for Zero-Shot Coordination](https://arxiv.org/abs/2302.04831.pdf) is accepted at ICML 2023! Can't wait to see you in Hawaii on July! 🏖️
+Our Paper [Cooperative Open-ended Learning Framework for Zero-Shot Coordination](https://openreview.net/forum?id=iMVMxYab0z) is accepted in ICML 2023! Can't wait to see you in Hawaii on July! 🏖️
