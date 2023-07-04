@@ -7,6 +7,8 @@ subtitle: Ph.D. Candidate at SJTU-MARL Group,<a href='https://www.sjtu.edu.cn/'>
 profile:
   align: right
   image: photo.jpg
+  email: shaozhang@sjtu.edu.cn
+  neuemail: zhang.shao.1@northeastern.edu
   image_circular: false # crops the image to make it circular
   address: >
     <p>Shanghai Jiao Tong University</p>
