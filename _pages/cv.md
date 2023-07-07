@@ -1,8 +1,8 @@
 ---
 layout: cv
-permalink: /assets/pdf/CV_Shao_Zhang.pdf
+permalink: /cv
 title: cv
-nav: true
+nav: false
 nav_order: 4
 cv_pdf: CV_Shao_Zhang.pdf
 ---
