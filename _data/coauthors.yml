@@ -10,30 +10,18 @@
   - firstname: [Ying]
     url: https://yingwen.io
 
-# "Wang": 
-#   - firstname: [Xinbing]
-#     url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
-
-"Wang":
-  - firstname: [Dakuo]
-    url: https://dakuowang.com
-
 "Li":
   - firstname: [Toby Jia-Jun]
     url: https://toby.li
+  - firstname: [Yang]
+    url: https://liyang.page
     
 "Wang":
  - firstname: [Xihuai]
    url: https://xihuai18.github.io/
+ - firstname: [Dakuo]
+  url: https://dakuowang.com
 
 "Xiao":
   - firstname: [Sheng]
     url: https://xiaolab.net
-    
-"Li":
-  - firstname: [Yang]
-    url: https://liyang.page
-
-# “Yang”
-#   - firstname: [Yang]
-#     url: https://liyang.page
