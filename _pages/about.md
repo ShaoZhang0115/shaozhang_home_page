@@ -26,7 +26,6 @@ Shao obtained her MSc in Multimedia and Entertainment Technology (Game Developme
 
 Shao's research interests include **Human-AI Collaboration** and **Multi-agent System**. 
 Specifically, she is now focusing on:
-- **Human-in-the-Loop** data annotation and **AI-in-the-Loop** deployment in real world scenario,
-- Involving Large Language Models in Human-AI Collaboration,
-- **Zero-shot Coordination** in Human-AI Collaboration,
-- **Bidirectional Alignment** in Human-AI Team.
+- **AI-in-the-Loop** deployment for task-oriented agent in real world scenario,
+- **Zero-shot Coordination** for human-agent collaboration in fully cooperative game,
+- **Bidirectional Alignment** for human-AI teams (HATs) via Large Language Models (LLMs).
