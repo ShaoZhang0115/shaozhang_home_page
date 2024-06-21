@@ -16,7 +16,8 @@ doi = {n/a},
 url = {https://arxiv.org/abs/2306.03034},
 abstract = {Achieving coordination between humans and artificial intelligence in scenarios involving previously unencountered humans remains a substantial obstacle within Zero-Shot Human-AI Coordination, which aims to develop AI agents capable of efficiently working alongside previously unknown human teammates. Traditional algorithms have aimed to collaborate with humans by optimizing fixed objectives within a population, fostering diversity in strategies and behaviors. However, these techniques may lead to learning loss and an inability to cooperate with specific strategies within the population, a phenomenon named cooperative incompatibility. To mitigate this issue, we introduce the Cooperative Open-ended LEarning (COLE) framework, which formulates open-ended objectives in cooperative games with two players using perspectives of graph theory to evaluate and pinpoint the cooperative capacity of each strategy. We put forth a practical algorithm incorporating insights from game theory and graph theory, e.g., Shapley Value and Centrality. We also show that COLE could effectively overcome the cooperative incompatibility from theoretical and empirical analysis. Subsequently, we created an online Overcooked human-AI experiment platform, the COLE platform, which enables easy customization of questionnaires, model weights, and other aspects. Utilizing the COLE platform, we enlist 130 participants for human experiments. Our findings reveal a preference for our approach over state-of-the-art methods using a variety of subjective metrics. Moreover, objective experimental outcomes in the Overcooked game environment indicate that our method surpasses existing ones when coordinating with previously unencountered AI agents and the human proxy model. },
 selected={true},
-pdf={https://arxiv.org/pdf/2306.03034.pdf}
+pdf={https://arxiv.org/pdf/2306.03034.pdf},
+code={https://github.com/liyang619/COLE-Platform}
 }
 
 
@@ -56,7 +57,8 @@ journal = {Preprint Under Review},
 abstract = {Zero-shot coordination (ZSC) is a new challenge focusing on generalizing learned coordination skills to unseen partners. Existing methods train the ego agent with partners from pre-trained or evolving populations. The agent's ZSC capability is typically evaluated with a few evaluation partners, including human and agent, and reported by mean returns. Current evaluation methods for ZSC capability still need to improve in constructing diverse evaluation partners and comprehensively measuring the ZSC capability. We aim to create a reliable, comprehensive, and efficient evaluation method for ZSC capability. We formally define the ideal 'diversity-complete' evaluation partners and propose the best response (BR) diversity, which is the population diversity of the BRs to the partners, to approximate the ideal evaluation partners. We propose an evaluation workflow including 'diversity-complete' evaluation partners construction and a multi-dimensional metric, the Best Response Proximity (BR-Prox) metric. BR-Prox quantifies the ZSC capability as the performance similarity to each evaluation partner's approximate best response, demonstrating generalization capability and improvement potential. We re-evaluate strong ZSC methods in the Overcooked environment using the proposed evaluation workflow. Surprisingly, the results in some of the most used layouts fail to distinguish the performance of different ZSC methods. Moreover, the evaluated ZSC methods must produce more diverse and high-performing training partners. Our proposed evaluation workflow calls for a change in how we efficiently evaluate ZSC methods as a supplement to human evaluation.},
 url = {https://arxiv.org/abs/2310.05208},
 selected={true},
-pdf={https://arxiv.org/pdf/2310.05208.pdf}
+pdf={https://arxiv.org/pdf/2310.05208.pdf},
+code={https://github.com/sjtu-marl/ZSC-Eval}
 }
 
 
@@ -100,7 +102,8 @@ doi = {n/a},
 url = {https://arxiv.org/abs/2302.04831.pdf},
 abstract = {Zero-shot coordination in cooperative artificial intelligence (AI) remains a significant challenge, which means effectively coordinating with a wide range of unseen partners. Previous algorithms have attempted to address this challenge by optimizing fixed objectives within a population to improve strategy or behavior diversity. However, these approaches can result in a loss of learning and an inability to cooperate with certain strategies within the population, known as cooperative incompatibility. To address this issue, we propose the Cooperative Open-ended LEarning (COLE) framework, which constructs open-ended objectives in cooperative games with two players from the perspective of graph theory to assess and identify the cooperative ability of each strategy. We further specify the framework and propose a practical algorithm that leverages knowledge from game theory and graph theory. Furthermore, an analysis of the learning process of the algorithm shows that it can efficiently overcome cooperative incompatibility. The experimental results in the Overcooked game environment demonstrate that our method outperforms current state-of-the-art methods when coordinating with different-level partners. Our code and demo are available at https://sites.google.com/view/cole-2023.},
 selected={true},
-pdf={https://arxiv.org/pdf/2302.04831.pdf}
+pdf={https://arxiv.org/pdf/2302.04831.pdf},
+code={https://github.com/liyang619/COLE-Platform}
 }
 
 
@@ -140,7 +143,6 @@ abbr      = {Convex Approximation},
 selected  = {false},
 bibtex_show = {true},
 pdf = {Convexhull.pdf},
-
 title = {Investigating the geometric structure of neural activation spaces with convex hull approximations},
 journal = {Neurocomputing},
 volume = {499},
@@ -188,16 +190,36 @@ pdf={Keyword Analysis Visualization for Chinese Historical Texts.pdf},
 selected={false}
 }
 
-@article{yao2023more,
+
+@inproceedings{yao-etal-2024-samples,
 bibtex_show = {true},
 abbr={LLM},
-  title={More Samples or More Prompt Inputs? Exploring Effective In-Context Sampling for LLM Few-Shot Prompt Engineering},
-  author={Yao, Bingsheng and Chen, Guiming and Zou, Ruishi and Lu, Yuxuan and Li, Jiachen and Zhang, Shao and Liu, Sijia and Hendler, James and Wang, Dakuo},
-  journal={arXiv preprint arXiv:2311.09782},
-pdf={https://arxiv.org/abs/2311.09782.pdf},
-  year={2024},
-selected={false}
+selected={false},
+    title = "More Samples or More Prompts? Exploring Effective Few-Shot In-Context Learning for {LLM}s with In-Context Sampling",
+    author = "Yao, Bingsheng  and
+      Chen, Guiming  and
+      Zou, Ruishi  and
+      Lu, Yuxuan  and
+      Li, Jiachen  and
+      Zhang, Shao  and
+      Sang, Yisi  and
+      Liu, Sijia  and
+      Hendler, James  and
+      Wang, Dakuo",
+    editor = "Duh, Kevin  and
+      Gomez, Helena  and
+      Bethard, Steven",
+    booktitle = "Findings of the Association for Computational Linguistics: NAACL 2024",
+    month = jun,
+    year = "2024",
+    address = "Mexico City, Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-naacl.115",
+    pages = "1772--1790",
+    abstract = "While most existing works on LLM prompting techniques focus only on how to select a better set of data samples inside one single prompt input (In-Context Learning or ICL), why can not we design and leverage multiple prompts together to further improve the LLM{'}s performance? In this work, we propose In-Context Sampling (ICS), a low-resource LLM prompting technique to produce confident predictions by optimizing the construction of multiple ICL prompt inputs. Extensive experiments with three open-source LLMs (FlanT5-XL, Mistral-7B, and Mixtral-8x7B) on four NLI datasets (e-SNLI, Multi-NLI, ANLI, and Contract-NLI) and one QA dataset (CommonsenseQA) illustrate that ICS can consistently enhance LLMs{'} performance. An in-depth evaluation with three data similarity-based ICS strategies suggests that these strategies can further elevate LLM{'}s performance, which sheds light on a new yet promising future research direction.",
 }
+
+
 
 @article{lu2023human,
 bibtex_show = {true},
