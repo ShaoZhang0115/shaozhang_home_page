@@ -13,15 +13,19 @@
   contents:
     - title: PhD Candidate
       institution: Shanghai Jiao Tong University
-      year: Present
+      year: 2021-Present
       description: "Advisors: Prof. Ying Wen and Prof. Xinbing Wang"
+    - title: Visting Scholar
+      institution: Northeastern University
+      year: 2023-2024
+      description: "Advisors: Prof. Dakuo Wang"
     - title: MSc in Multimedia and Entertainment Technology
       institution: The Hong Kong Polytechnic University
-      year: 2020
+      year: 2019-2020
       description: "Advisor: Dr. William LIANG"
     - title: B.Eng. in Industrial Design
       institution: Hunan University
-      year: 2019
+      year: 2015-2019
       description: "Advisors: Prof. Sheng Xiao and Prof. Beibei Zhan"
 
 - title: Services
