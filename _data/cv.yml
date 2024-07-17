@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Shao ZHANG
-    - name: Date of Birth
-      value: 15th Jan 1997
-    - name: Languages
-      value: Chinese, Cantonese, English
+      value: Shao ZHANG (张劭)
+    - name: Email
+      value: shaozhang@sjtu.edu.cn
+    - name: Address
+      value: 800 Dongchuan Road, Shanghai Jiao Tong University, Shanghai, China
 
 - title: Education
   type: time_table
@@ -14,13 +14,25 @@
     - title: PhD Candidate
       institution: Shanghai Jiao Tong University
       year: Present
-      description:
+      description: "Advisors: Prof. Ying Wen and Prof. Xinbing Wang"
     - title: MSc in Multimedia and Entertainment Technology
       institution: The Hong Kong Polytechnic University
       year: 2020
-      description:
+      description: "Advisor: Dr. William LIANG"
     - title: B.Eng. in Industrial Design
       institution: Hunan University
       year: 2019
-      description:
+      description: "Advisors: Prof. Sheng Xiao and Prof. Beibei Zhan"
 
+- title: Services
+  type: map
+  contents:
+    - name: Reviewer / PC Member
+      value: Neurips 2024, CSCW 2024, IUI' 24
+    - name: Studuent Volunteer
+      value: CHI' 23
+
+- title: PDF Version
+  type: nested_list
+  contents:
+    - items: If you are looking for my CV in PDF format, feel free to contact me via email!

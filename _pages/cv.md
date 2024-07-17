@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: cv
 permalink: /cv
 title: cv
 nav: true
 nav_order: 2
-cv_pdf: CV_Shao_Zhang.pdf
+# cv_pdf: CV_Shao_Zhang.pdf
 social: false  # includes social icons at the bottom of the page
 ---
 
