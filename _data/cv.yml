@@ -11,8 +11,8 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD Candidate
-      institution: Shanghai Jiao Tong University
+    - title: PhD Candidate in Electronic Information
+      institution: School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University
       year: 2021-Present
       description: "Advisors: Prof. Ying Wen and Prof. Xinbing Wang"
     - title: Visiting Scholar
@@ -20,11 +20,11 @@
       year: 2023-2024
       description: "Advisor: Prof. Dakuo Wang"
     - title: MSc in Multimedia and Entertainment Technology
-      institution: The Hong Kong Polytechnic University
+      institution: School of Design, The Hong Kong Polytechnic University
       year: 2019-2020
       description: "Advisor: Dr. William LIANG"
     - title: B.Eng. in Industrial Design
-      institution: Hunan University
+      institution: School of Design, Hunan University
       year: 2015-2019
       description: "Advisors: Prof. Sheng Xiao and Prof. Beibei Zhan"
 
