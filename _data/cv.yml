@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Shao ZHANG (张劭)
+      value: Shao ZHANG (张 劭)
     - name: Email
       value: shaozhang@sjtu.edu.cn
     - name: Address
@@ -15,7 +15,7 @@
       institution: Shanghai Jiao Tong University
       year: 2021-Present
       description: "Advisors: Prof. Ying Wen and Prof. Xinbing Wang"
-    - title: Visting Scholar
+    - title: Visiting Scholar
       institution: Northeastern University
       year: 2023-2024
       description: "Advisor: Prof. Dakuo Wang"
