@@ -6,7 +6,7 @@ related_posts: false
 show: true
 ---
 
-Two papers accepted by NeurIPS 2024 (1 Main Track and 1 D&B Track)!
+Two papers accepted by NeurIPS 2024 (1 Main Track and 1 D&B Track)! See you in Vancouver!
 
 - [ZSC-Eval: An Evaluation Toolkit and Benchmark for Multi-agent Zero-shot Coordination](https://arxiv.org/pdf/2310.05208.pdf) (D&B Track)
 - [Aligning Individual and Collective Objectives in Multi-Agent Cooperation](https://arxiv.org/abs/2402.12416.pdf) (Main Track)
