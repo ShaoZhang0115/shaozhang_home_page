@@ -32,9 +32,9 @@
   type: map
   contents:
     - name: Reviewer / PC Member
-      value: ICLR 2025, NeurIPS 2024, CSCW 2025/2024, IUI' 24
+      value: CHI' 25, ICLR 2025, NeurIPS 2024, CSCW 2025/2024, IUI' 24 &25
     - name: Student Volunteer
-      value: CHI' 23
+      value: CHI' 23, DAI 2022 & 2023
 
 - title: PDF Version
   type: nested_list
