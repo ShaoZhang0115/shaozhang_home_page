@@ -6,4 +6,4 @@ related_posts: false
 show: true
 ---
 
-Our paper “**PMAT: Optimizing Action Generation Order in Multi-Agent Reinforcement Learning**” gets accepted by AAMAS 2025.
+Our paper “[PMAT: Optimizing Action Generation Order in Multi-Agent Reinforcement Learning]()” gets accepted by AAMAS 2025.
