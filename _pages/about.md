@@ -29,4 +29,4 @@ Shao's research interests include **Human-AI Collaboration** and **Multi-agent S
 Specifically, she is now focusing on:
 - **AI-in-the-Loop** deployment for human-AI collaboration systems in various real-world scenarios,
 - **Zero-shot Coordination** (ZSC) in human-AI collaboration via multi-agent reinforcement learning (MARL),
-- **Mutual Theory of Mind** (MToM) in human-AI collaboration via Large Language Models (LLMs).
+- **Language Agent** in Real-time Simultaneous human-AI collaboration via Cognitive Theory like Theory of Mind (ToM) and Dual Process Theory (DPT).
