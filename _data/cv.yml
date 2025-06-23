@@ -31,7 +31,7 @@
   type: map
   contents:
     - name: Reviewer / PC Member
-      value: ICML 2025, CHI' 25, ICLR 2025, NeurIPS 2024, CSCW 2025/2024, IUI' 24 &25.
+      value: ICML 2025, ICLR 2025, NeurIPS 2025/2024, ACL ARR 2025, CHI' 25, CSCW 2025/2024, IUI' 24/25.
     - name: Student Volunteer
       value: CHI' 23, DAI 2022 & 2023
 
