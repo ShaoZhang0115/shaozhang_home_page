@@ -6,4 +6,6 @@ related_posts: false
 show: true
 ---
 
- 🏆 Our paper “[Talk2Care: An LLM-based Voice Assistant for Communication between Healthcare Providers and Older Adults](https://dl.acm.org/doi/abs/10.1145/3659625)” won the IWMUT Distinguish Paper Award! 
+ 🏆 Our paper “[Talk2Care: An LLM-based Voice Assistant for Communication between Healthcare Providers and Older Adults](https://dl.acm.org/doi/abs/10.1145/3659625)” won the IWMUT Distinguish Paper Award!
+
+<img src="i./assets/img/ubicomp.jpg" width="300">
