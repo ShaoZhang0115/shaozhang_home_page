@@ -9,4 +9,5 @@ show: true
 
 <img src="/assets/img/defence.jpg" width="200"
      style="float:right; margin:0 0 1rem 1rem;" alt="">
-<p>Just pass my dissertation defense! Officially Dr. Zhang now! 🎓</div>
+<p>Just pass my dissertation defense! Officially Dr. Zhang now! 🎓 
+<div style="clear:both;"></div>
