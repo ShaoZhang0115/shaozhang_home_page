@@ -2,7 +2,7 @@
 layout: about
 title: Bio
 permalink: /
-subtitle: Ph.D. Candidate, <a href='https://www.sjtu.edu.cn/'> Shanghai Jiao Tong University</a>, Shanghai, China.
+subtitle: <a href='https://www.sjtu.edu.cn/'> Shanghai Jiao Tong University</a>, Shanghai, China.
 
 
 profile:
