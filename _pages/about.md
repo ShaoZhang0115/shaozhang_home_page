@@ -27,7 +27,7 @@ Shao obtained her MSc in Multimedia and Entertainment Technology (Game Developme
 
 Shao's research focuses on **building agents for human-AI collaboration**, spanning multi-agent systems (MAS), human–computer interaction (HCI), and large language models (LLMs).  
 Specifically, she is now focusing on:
-- **Agentic Foundation Models** for cooperative decision-making in multi-agent systems,
+- **Agentic Foundation Models** for cooperative decision-making in multi-agent systems and human-AI collaboration,
 - **Language Agents** for real-time simultaneous human-AI collaboration,
 - Human-centered **Multi-agent Systems** for long-term deployment in real-world settings.
 
