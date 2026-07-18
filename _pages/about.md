@@ -8,7 +8,7 @@ subtitle: Researcher, <a href='https://www.shlab.org.cn/'> Shanghai Artificial I
 profile:
   align: right
   image: photo.jpg
-  email: shaozhang@sjtu.edu.cn
+  email: zhangshao@pjlab.org.cn
   neuemail: zhang.shao.1@northeastern.edu
   image_circular: false # crops the image to make it circular
   address: >
