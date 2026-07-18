@@ -4,9 +4,7 @@
     - name: Full Name
       value: Shao ZHANG (张 劭)
     - name: Email
-      value: shaozhang@sjtu.edu.cn
-    - name: Address
-      value: 800 Dongchuan Road, Shanghai Jiao Tong University, Shanghai, China
+      value: zhangshao@pjlab.org.cn
 
 - title: Professional Experience
   type: time_table
