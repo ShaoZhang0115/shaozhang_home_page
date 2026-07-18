@@ -8,6 +8,16 @@
     - name: Address
       value: 800 Dongchuan Road, Shanghai Jiao Tong University, Shanghai, China
 
+- title: Professional Experience
+  type: time_table
+  contents:
+    - title: Researcher
+      institution: Shanghai Artificial Intelligence Laboratory
+      year: 2026-Present
+    - title: Research Intern
+      institution: LongCat Team
+      year: 2024-2025
+
 - title: Education
   type: time_table
   contents:
