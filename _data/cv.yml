@@ -19,9 +19,9 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD Candidate in Electronic Information
+    - title: PhD in Electronic Information
       institution: School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University
-      year: 2021-Present
+      year: 2021-2025
       description: "Advisors: Prof. Ying Wen and Prof. Xinbing Wang"
     - title: Visiting Scholar
       institution: Northeastern University, USA
@@ -39,7 +39,9 @@
   type: map
   contents:
     - name: Organizing Committee
-      value: DAI 2026
+      value: IJCAI-27, DAI 2026
+    - name: Area Chair
+      value: ICLR 2027, DAI 2026
     - name: Reviewer / PC Member
       value: ICML 2026/2025, ICLR 2025, NeurIPS 2026/2025/2024, AAAI 2027, ACL ARR, CHI' 26/25, CSCW 2025/2024, IUI' 24/25.
     - name: Student Volunteer
